@@ -1,0 +1,4 @@
+com/mycompany/memento/MementoPatternDemo.class
+com/mycompany/memento/Originator.class
+com/mycompany/memento/CareTaker.class
+com/mycompany/memento/Memento.class
